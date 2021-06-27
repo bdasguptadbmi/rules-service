@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Immunization Simulator</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet" href="jss/jsgrid-1.5.1/jsgrid.min.css"/>
+    <link type="text/css" rel="stylesheet" href="jss/jsgrid-1.5.1/jsgrid-theme.min.css"/>
+
+    <!-- Javascript -->
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="jss/jsgrid-1.5.1/jsgrid.min.js"></script>
+    <script>
+        // Variables
+        //var serviceHome = 'http://localhost:8080/imsrvcs/services/';
+        var serviceHome = 'https://immunize.nyp.org/imsrvcs-1.0-SNAPSHOT/services/';
+        var supportingImmunizationURL = '';
+        var recommendations = [];
+        var immunizations = [];
+
+        $(function () {
+            $('#inputAuditDate').datepicker();
+        });
+
+        $(function () {
+            $("#tabs").tabs();
+        });
+
+        $(document).ready(function () {
+            $('#getrecommendations').click(function () {
+                console.log('get recommendations click event triggered');
+                if (!$('#inputEMPI').val()) {
+                    alert('An EMPI needs to be specified');
+                } else {
+                    recommendations.length = 0;
+                    $.ajax({
+                        url: serviceHome + 'ImmunizationRecommendation',
+                        method: 'GET',
+                        dataType: "json",
+                        data: 'empi=' + $('#inputEMPI').val(), //1005404275',
+                        async: false
+                    }).complete(function (data, textStatus, jqXHR) {
+                        var response = data.responseJSON;
+                        for (var i = 0; i < response.entry.length; i++) {
+                            for (j = 0; j < response.entry[i].resource.recommendation.length; j++) {
+                                var r = response.entry[i].resource.recommendation[j];
+                                recommendations.push({
+                                    "Series": r.vaccineCode.text,
+                                    "Forecast Status": r.forecastStatus.text,
+                                    "Reason": r.protocol.description
+                                });
+                                supportingImmunizationURL = serviceHome + r.supportingImmunization[0].reference;
+                                console.log(supportingImmunizationURL);
+                            }
+                        }
+                        loadResults(parent);
+                        loadHistory(parent);
+                    }).fail(function (jqXHR, textStatus) {
+                        alert('Call to recommendation service failed: ' + jqXHR + ' -> ' + textStatus);
+                    });
+                }
+                return false;
+            });
+
+        });
+
+        var loadResults = function () {
+            $("#results").jsGrid("refresh");
+        }
+
+        var loadHistory = function () {
+            $.ajax({
+                url: supportingImmunizationURL,
+                method: 'GET',
+                dataType: "json",
+                async: false
+            }).complete(function (data, textStatus, jqXHR) {
+                var response = data.responseJSON;
+                for (var i = 0; i < response.entry.length; i++) {
+                    entry = response.entry[i];
+                    if (entry.resource.status != 'ENTERED_IN_ERROR') {
+                        var d = new Date(entry.resource.date).toString("yyyy-MM-dd");
+                        var count = entry.resource.vaccinationProtocol.length;
+                        console.log('count = ' + count);
+                        var series = '';
+                        var doseNo = '';
+                        var status = '';
+                        var reason = '';
+
+                        if (count == 2) {
+                            series = entry.resource.vaccinationProtocol[1].series;
+                            doseNo = entry.resource.vaccinationProtocol[1].doseSequence;
+                            status = entry.resource.vaccinationProtocol[1].doseStatus.coding[0].display;
+                            if (entry.resource.vaccinationProtocol[1].doseStatusReason) {
+                                reason = entry.resource.vaccinationProtocol[1].doseStatusReason.coding[0].display;
+                            }
+                        } else {
+                            series = entry.resource.vaccinationProtocol[0].series;
+                        }
+                        immunizations.push({
+                            "Id": entry.resource.id,
+                            "Status": status,
+                            "Vaccine": entry.resource.vaccineCode.coding[0].display,
+                            "Medcode": entry.resource.vaccineCode.coding[0].code,
+                            "CVX": entry.resource.vaccineCode.coding[1].code,
+                            "Date": d,
+                            "Series": series,
+                            "Dose #": doseNo,
+                            "Reason": reason
+                        });
+                    }
+                }
+                $("#immunizations").jsGrid("refresh");
+            }).fail(function (jqXHR, textStatus) {
+                alert('Call to immunization history service failed: ' + jqXHR + ' -> ' + textStatus);
+            });
+        }
+    </script>
+</head>
+<body>
+<div class="container-fluid">
+    <h2>Immunization Services Tester</h2>
+    <hr noshade/>
+    <form>
+        <div class="form-group">
+            <label for="inputEMPI">EMPI</label>
+            <input type="text" class="form-control" id="inputEMPI" aria-describedby="empiHelp" placeholder="Enter EMPI"
+                   value="1005404275">
+            <small id="empiHelp" class="form-text text-muted">Please enter the EMPI for which you wish to run the
+                rules.</small>
+        </div>
+
+        <div class="form-group">
+            <label for="datepicker">Audit Date</label>
+            <input type="text" class="form-control" id="inputAuditDate" aria-describedby="auditDateHelp"
+                   placeholder="Enter Audit Date">
+            <small id="auditDateHelp" class="form-text text-muted">Please enter the audit date for which you want to get
+                the recommendations. <b>Note:</b> Audit dates cannot be in the future.</small>
+        </div>
+
+        <div class="form-group">
+            <label for="inputICD9">ICD-9 Codes</label>
+            <input type="text" class="form-control" id="inputICD9" aria-describedby="icd9Help"
+                   placeholder="Enter ICD-9 codes">
+            <small id="icd9Help" class="form-text text-muted">Please enter the ICD-9 codes, each code separated by a
+                comma.</small>
+        </div>
+
+        <div class="form-group">
+            <label for="inputICD10">ICD-10 Codes</label>
+            <input type="text" class="form-control" id="inputICD10" aria-describedby="icd10Help"
+                   placeholder="Enter ICD-10 codes">
+            <small id="icd10Help" class="form-text text-muted">Please enter the ICD-10 codes, each code separated by a
+                comma.</small>
+        </div>
+
+        <div class="widget">
+            <input class="ui-button ui-widget ui-corner-all" type="submit" id="getrecommendations"
+                   value="Get Recommendations">
+        </div>
+    </form>
+
+    <br/>
+    <div id="tabs">
+        <ul>
+            <li><a href="#tabs-1">Recommendations</a></li>
+            <li><a href="#tabs-2">Immunization History</a></li>
+        </ul>
+
+        <div id="tabs-1">
+            <div id="results"></div>
+            <script>
+                $('#results').jsGrid({
+                    width: "100%",
+                    height: "800px",
+                    inserting: false,
+                    editing: false,
+                    sorting: true,
+                    paging: false,
+                    data: recommendations,
+                    fields: [
+                        {name: "Series", type: "text", width: 150},
+                        {name: "Forecast Status", type: "text", width: 150},
+                        {name: "Reason", type: "text", width: 150}
+                    ]
+                });
+            </script>
+        </div>
+
+        <div id="tabs-2">
+            <div id="immunizations"></div>
+            <script>
+                $('#immunizations').jsGrid({
+                    width: "100%",
+                    height: "800px",
+                    inserting: false,
+                    editing: false,
+                    sorting: true,
+                    paging: false,
+                    autowidth: true,
+                    shrinkToFit: true,
+                    data: immunizations,
+                    fields: [
+                        {name: "Id", type: "text", width: 150},
+                        {name: "Status", type: "text", width: 160},
+                        {name: "Vaccine", type: "text", width: 150},
+                        {name: "Medcode", type: "text", width: 150},
+                        {name: "CVX", type: "text", width: 150},
+                        {name: "Date", type: "date", width: 150},
+                        {name: "Series", type: "text", width: 150},
+                        {name: "Dose #", type: "text", width: 150},
+                        {name: "Reason", type: "text", width: 150}
+                    ]
+                });
+            </script>
+        </div>
+    </div>
+
+
+</div>
+</body>
+</html>

@@ -1,0 +1,47 @@
+279,"Hypogammaglobulinemia, unspecified",9,HIB
+279.01,Selective IgA immunodeficiency,9,HIB
+279.02,Selective IgA immunodeficiency,9,HIB
+279.03,Other selective immunoglobulin deficiencies,9,HIB
+279.04,Congenital hypogammaglobulinemia,9,HIB
+279.05,Immunodeficiency with increased IgM,9,HIB
+279.06,Common variable immunodeficiency,9,HIB
+279.09,Other,9,HIB
+279.8,Other specified disorders involving the immune mechanism,9,HIB
+759,Anomalies of spleen,9,HIB
+282.41,Sickle-cell thalassemia without crisis,9,HIB
+282.42,Sickle-cell thalassemia with crisis,9,HIB
+282.49,Other thalassemia,9,HIB
+282.6,"Sickle-cell disease, unspecified",9,HIB
+282.61,Hb-SS disease without crisis,9,HIB
+282.62,Hb-SS disease with crisis,9,HIB
+282.63,Sickle-cell/Hb-C disease without crisis,9,HIB
+282.64,Sickle-cell/HB-C disease with crisis,9,HIB
+282.68,Other sickle-cell disease without crisis,9,HIB
+282.69,Other sickle-cell disease with crisis,9,HIB
+O42,Human immunodeficiency virus [HIV] disease,9,HIB
+V08,Asymptomatic human immunodeficiency virus [HIV] infection status,9,HIB
+D80.1,Nonfamilial hypogammaglobulinemia,10,HIB
+D80.2,Selective deficiency of immunoglobulin A [IgA],10,HIB
+D80.4,Selective deficiency of immunoglobulin M [IgM],10,HIB
+D80.3,Selective deficiency of immunoglobulin G [IgG] subclasses,10,HIB
+D80.0,Hereditary hypogammaglobulinemia,10,HIB
+D80.5,Immunodeficiency with increased immunoglobulin M [IgM],10,HIB
+D83.8,Other common variable immunodeficiencies,10,HIB
+D83.9,"Common variable immunodeficiency, unspecified",10,HIB
+D80.7,Transient hypogammaglobulinemia of infancy,10,HIB
+D84.1,Defects in the complement system,10,HIB
+D89.89,"Other specified disorders involving the immune mechanism, not elsewhere classified",10,HIB
+Q89.01,Asplenia (congenital),10,HIB
+Q89.09,Congenital malformations of spleen,10,HIB
+D57.40,Sickle-cell thalassemia without crisis,10,HIB
+D57.419,"Sickle-cell thalassemia with crisis, unspecified",10,HIB
+D56.8,Other thalassemias,10,HIB
+D57.1,Sickle-cell disease without crisis,10,HIB
+D57.1,Sickle-cell disease without crisis,10,HIB
+D57.00,"Hb-SS disease with crisis, unspecified",10,HIB
+D57.20,Sickle-cell/Hb-C disease without crisis,10,HIB
+D57.219,"Sickle-cell/Hb-C disease with crisis, unspecified",10,HIB
+D57.80,Other sickle-cell disorders without crisis,10,HIB
+D57.819,"Other sickle-cell disorders with crisis, unspecified",10,HIB
+B20,Human immunodeficiency virus [HIV] disease,10,HIB
+Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,10,HIB

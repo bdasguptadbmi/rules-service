@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/imsrvcs-1.0-SNAPSHOT">
+    <Resource auth="Container" driverClassName="com.ibm.db2.jcc.DB2Driver" maxActive="2" maxIdle="10" maxWait="3000"
+              name="jdbc/nypis" password="******" type="javax.sql.DataSource"
+              url="*****" username="*****"/>
+</Context>

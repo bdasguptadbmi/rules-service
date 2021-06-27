@@ -1,0 +1,1096 @@
+745.0,Common truncus,9,PPSV
+745.1,Transposition of great vessels,9,PPSV
+745.10,Complete transposition of great vessels,9,PPSV
+745.11,Double outlet right ventricle,9,PPSV
+745.12,Corrected transposition of great vessels,9,PPSV
+745.19,Other,9,PPSV
+745.2,Tetralogy of Fallot,9,PPSV
+745.3,Common ventricle,9,PPSV
+745.4,Ventricular septal defect,9,PPSV
+745.5,Ostium secundum type atrial septal defect,9,PPSV
+745.6,Endocardial cushion defects,9,PPSV
+745.60,"Endocardial cushion defect, unspecified type",9,PPSV
+745.61,Ostium primum defect,9,PPSV
+745.69,Other,9,PPSV
+745.7,Cor biloculare,9,PPSV
+745.8,Other,9,PPSV
+745.9,Unspecified defect of septal closure,9,PPSV
+746.0,Anomalies of pulmonary valve,9,PPSV
+746.00,"Pulmonary valve anomaly, unspecified",9,PPSV
+746.01,"Atresia, congenital",9,PPSV
+746.02,"Stenosis, congenital",9,PPSV
+746.09,Other,9,PPSV
+746.1,"Tricuspid atresia and stenosis, congenital",9,PPSV
+746.2,Ebstein's anomaly,9,PPSV
+746.3,Congenital stenosis of aortic valve,9,PPSV
+746.4,Congenital insufficiency of aortic valve,9,PPSV
+746.5,Congenital insufficiency of aortic valve,9,PPSV
+746.6,Congenital mitral insufficiency,9,PPSV
+746.7,Hypoplastic left heart syndrome,9,PPSV
+746.8,Other specified anomalies of heart,9,PPSV
+746.81,Subaortic stenosis,9,PPSV
+746.82,Cor triatriatum,9,PPSV
+746.83,Infundibular pulmonic stenosis,9,PPSV
+746.84,"Obstructive anomalies of heart, NEC",9,PPSV
+746.85,Coronary artery anomaly,9,PPSV
+746.86,Congenital heart block,9,PPSV
+746.87,Malposition of heart and cardiac apex,9,PPSV
+746.89,Other,9,PPSV
+746.9,Unspecified anomaly of heart,9,PPSV
+747.0,Patent ductus arteriosus,9,PPSV
+747.1,Coarctation of aorta,9,PPSV
+747.10,Coarctation of aorta (preductal) (postductal),9,PPSV
+747.11,Interruption of aortic arch,9,PPSV
+747.2,Other anomalies of aorta,9,PPSV
+747.20,"Anomaly of aorta, unspecified",9,PPSV
+747.21,Anomalies of aortic arch,9,PPSV
+747.22,Atresia and stenosis of aorta,9,PPSV
+747.29,Other,9,PPSV
+747.3,Anomalies of pulmonary artery,9,PPSV
+747.4,Anomalies of great veins,9,PPSV
+747.40,"Anomaly of great veins, unspecified",9,PPSV
+747.41,Total anomalous pulmonary venous connection,9,PPSV
+747.42,Partial anomalous pulmonary venous connection,9,PPSV
+747.49,Other anomalies of great veins,9,PPSV
+425.0,Endomyocardial fibrosis,9,PPSV
+425.1,Hypertrophic obstructive cardiomyopathy,9,PPSV
+425.2,Obscure cardiomyopathy of Africa,9,PPSV
+425.3,Endocardial fibroelastosis,9,PPSV
+425.4,Other primary cardiomyopathies,9,PPSV
+429.1,Myocardial degeneration,9,PPSV
+429.3,Cardiomegaly,9,PPSV
+416.0,Primary pulmonary hypertension,9,PPSV
+416.1,Kyphoscoliotic heart disease,9,PPSV
+416.2,Code not listed? (Chronic pulmonary embolism),9,PPSV
+416.8,Other chronic pulmonary heart diseases,9,PPSV
+416.9,"Chronic pulmonary heart disease, unspecified",9,PPSV
+428.0,"Congestive heart failure, unspecified",9,PPSV
+428.1,Left heart failure,9,PPSV
+428.2,Systolic heart failure,9,PPSV
+428.20,Unspecified,9,PPSV
+428.21,Acute,9,PPSV
+428.22,Chronic,9,PPSV
+428.23,Acute on chronic,9,PPSV
+428.3,Diastolic heart failure,9,PPSV
+428.30,Unspecified,9,PPSV
+428.31,Acute,9,PPSV
+428.32,Chronic,9,PPSV
+428.33,Acute on chronic,9,PPSV
+428.4,Combined systolic and diastolic heart failure,9,PPSV
+428.40,Unspecified,9,PPSV
+428.41,Acute,9,PPSV
+428.42,Chronic,9,PPSV
+428.43,Acute on chronic,9,PPSV
+428.9,"Heart failure, unspecified",9,PPSV
+424.0,Mitral valve disorders,9,PPSV
+424.1,Aortic valve disorders,9,PPSV
+424.2,"Tricuspid valve disorders, specified as nonrheumatic",9,PPSV
+424.3,Pulmonary valve disorders,9,PPSV
+391.0,Acute rheumatic pericarditis,9,PPSV
+391.1,Acute rheumatic endocarditis,9,PPSV
+391.2,Acute rheumatic myocarditis,9,PPSV
+391.8,Other acute rheumatic heart disease,9,PPSV
+391.9,"Acute rheumatic heart disease, unspecified",9,PPSV
+392.0,"Rheumatic chorea, with heart involvement",9,PPSV
+393,Chronic rheumatic pericarditis,9,PPSV
+394,Diseases of mitral valve,9,PPSV
+394.0,Mitral stenosis,9,PPSV
+394.1,Rheumatic mitral insufficiency,9,PPSV
+394.2,Mitral stenosis with insufficiency,9,PPSV
+394.9,Other and unspecified mitral valve diseases,9,PPSV
+395,Diseases of aortic valve,9,PPSV
+395.0,Rheumatic aortic stenosis,9,PPSV
+395.1,Rheumatic aortic insufficiency,9,PPSV
+395.2,Rheumatic aortic stenosis with insufficiency,9,PPSV
+395.9,Other and unspecified rheumatic aortic diseases,9,PPSV
+396,Diseases of mitral and aortic valves,9,PPSV
+396.0,Mitral valve stenosis and aortic valve stenosis,9,PPSV
+396.1,Mitral valve stenosis and aortic valve insufficiency,9,PPSV
+396.2,Mitral valve insufficiency and aortic valve stenosis,9,PPSV
+396.3,Mitral valve insufficiency and aortic valve insufficiency,9,PPSV
+396.8,Multiple involvement of mitral and aortic valves,9,PPSV
+396.9,"Mitral and aortic valve diseases, unspecified",9,PPSV
+397,Diseases of other endocardial structures,9,PPSV
+397.0,Diseases of tricuspid valve,9,PPSV
+397.1,Rheumatic diseases of pulmonary valve,9,PPSV
+397.9,"Rheumatic diseases of endocardium, valve unspecified",9,PPSV
+398,Other rheumatic heart disease,9,PPSV
+398.0,Rheumatic myocarditis,9,PPSV
+398.9,Other and unspecified rheumatic heart diseases,9,PPSV
+398.90,"Rheumatic heart disease, unspecified",9,PPSV
+398.91,Rheumatic heart failure (congestive),9,PPSV
+398.99,Other,9,PPSV
+250.0,Diabetes mellitus without mention of complication,9,PPSV
+250.00,"type II patients, even if the patient requires insulin",9,PPSV
+250.01,"type I [juvenile type], not stated as uncontrolled",9,PPSV
+250.02,"type II or unspecified type, uncontrolled",9,PPSV
+250.03,"type I [juvenile type], uncontrolled",9,PPSV
+250.1,Diabetes with ketoacidosis,9,PPSV
+250.10,"type II patients, even if the patient requires insulin",9,PPSV
+250.11,"type I [juvenile type], not stated as uncontrolled",9,PPSV
+250.12,"type II or unspecified type, uncontrolled",9,PPSV
+250.13,"type I [juvenile type], uncontrolled",9,PPSV
+250.2,Diabetes with hyperosmolarity ,9,PPSV
+250.20,"type II patients, even if the patient requires insulin",9,PPSV
+250.21,"type I [juvenile type], not stated as uncontrolled",9,PPSV
+250.22,"type II or unspecified type, uncontrolled",9,PPSV
+250.23,"type I [juvenile type], uncontrolled",9,PPSV
+250.3,Diabetes with other coma ,9,PPSV
+250.30,"type II patients, even if the patient requires insulin",9,PPSV
+250.31,"type I [juvenile type], not stated as uncontrolled",9,PPSV
+250.32,"type II or unspecified type, uncontrolled",9,PPSV
+250.33,"type I [juvenile type], uncontrolled",9,PPSV
+250.4,Diabetes with renal manifestations ,9,PPSV
+250.40,"type II patients, even if the patient requires insulin",9,PPSV
+250.41,"type I [juvenile type], not stated as uncontrolled",9,PPSV
+250.42,"type II or unspecified type, uncontrolled",9,PPSV
+250.43,"type I [juvenile type], uncontrolled",9,PPSV
+250.5,Diabetes with ophthalmic manifestations ,9,PPSV
+250.50,"type II patients, even if the patient requires insulin",9,PPSV
+250.51,"type I [juvenile type], not stated as uncontrolled",9,PPSV
+250.52,"type II or unspecified type, uncontrolled",9,PPSV
+250.53,"type I [juvenile type], uncontrolled",9,PPSV
+250.6,Diabetes with neurological manifestations ,9,PPSV
+250.60,"type II patients, even if the patient requires insulin",9,PPSV
+250.61,"type I [juvenile type], not stated as uncontrolled",9,PPSV
+250.62,"type II or unspecified type, uncontrolled",9,PPSV
+250.63,"type I [juvenile type], uncontrolled",9,PPSV
+250.7,Diabetes with peripheral circulatory disorders ,9,PPSV
+250.70,"type II patients, even if the patient requires insulin",9,PPSV
+250.71,"type I [juvenile type], not stated as uncontrolled",9,PPSV
+250.72,"type II or unspecified type, uncontrolled",9,PPSV
+250.73,"type I [juvenile type], uncontrolled",9,PPSV
+250.8,Diabetes with other specified manifestations ,9,PPSV
+250.80,"type II patients, even if the patient requires insulin",9,PPSV
+250.81,"type I [juvenile type], not stated as uncontrolled",9,PPSV
+250.82,"type II or unspecified type, uncontrolled",9,PPSV
+250.83,"type I [juvenile type], uncontrolled",9,PPSV
+250.9,Diabetes with unspecified complication ,9,PPSV
+250.90,"type II patients, even if the patient requires insulin",9,PPSV
+250.91,"type I [juvenile type], not stated as uncontrolled",9,PPSV
+250.92,"type II or unspecified type, uncontrolled",9,PPSV
+250.93,"type I [juvenile type], uncontrolled",9,PPSV
+571.4,Chronic hepatitis,9,PPSV
+571.40,"Chronic hepatitis, unspecified",9,PPSV
+571.41,Chronic persistent hepatitis,9,PPSV
+571.42,Autoimmune hepatitis,9,PPSV
+571.49,Other,9,PPSV
+571.5,Cirrhosis of liver without mention of alcohol,9,PPSV
+571.6,Biliary cirrhosis,9,PPSV
+571.8,Other chronic nonalcoholic liver disease,9,PPSV
+571.9,Unspecified chronic liver disease without mention of alcohol,9,PPSV
+555.0,Regional enteritis: Small intestine,9,PPSV
+555.1,Regional enteritis: Large intestine,9,PPSV
+555.2,Regional enteritis: Small intestine with large intestine,9,PPSV
+555.9,Regional enteritis: Unspecified site,9,PPSV
+556.0,Ulcerative (chronic) enterocolitis,9,PPSV
+556.1,Ulcerative (chronic) ileocolitis,9,PPSV
+556.2,Ulcerative (chronic) proctitis,9,PPSV
+556.3,Ulcerative (chronic) proctosigmoiditis,9,PPSV
+556.4,Pseudopolyposis of colon,9,PPSV
+556.5,Left-sided ulcerative (chronic) colitis,9,PPSV
+556.6,Universal ulcerative (chronic) colitis,9,PPSV
+556.8,Other ulcerative colitis,9,PPSV
+556.9,"Ulcerative colitis, unspecified",9,PPSV
+553.3,Diaphragmatic hernia,9,PPSV
+756.6,Anomalies of diaphragm,9,PPSV
+756.70,"Anomaly of abdominal wall, unspecified",9,PPSV
+756.71,Prune belly syndrome,9,PPSV
+756.79,Other congenital anomalies of abdominal wall,9,PPSV
+266.2,Other B-complex deficiencies,9,PPSV
+270.0,Disturbances of amino-acid transport,9,PPSV
+270.1,Phenylketonuria [PKU],9,PPSV
+270.2,Other disturbances of aromatic amino-acid metabolism,9,PPSV
+270.3,Disturbances of branched-chain amino-acid metabolism,9,PPSV
+270.4,Disturbances of sulphur-bearing amino-acid metabolism,9,PPSV
+270.5,Disturbances of histidine metabolism,9,PPSV
+270.6,Disorders of urea cycle metabolism,9,PPSV
+270.7,Other disturbances of straight-chain amino-acid metabolism,9,PPSV
+270.8,Other specified disorders of amino-acid metabolism,9,PPSV
+271.0,Glycogenosis,9,PPSV
+271.1,Galactosemia,9,PPSV
+271.2,Hereditary fructose intolerance,9,PPSV
+271.8,Other specified disorders of carbohydrate transport and metabolism,9,PPSV
+272.7,Lipidoses,9,PPSV
+277.2,Other disorders of purine and pyrimidine metabolism,9,PPSV
+277.6,Other deficiencies of circulating enzymes,9,PPSV
+277.81,Primary carnitine deficiency,9,PPSV
+277.85,Disorders of fatty acid oxidation,9,PPSV
+277.86,Peroxisomal disorders,9,PPSV
+277.87,Disorders of mitochondrial metabolism,9,PPSV
+277.89,Other specified disorders of metabolism,9,PPSV
+277.9,Unspecified disorder of metabolism,9,PPSV
+330.0,Leukodystrophy,9,PPSV
+330.1,Cerebral lipidoses,9,PPSV
+330.8,Other specified cerebral degenerations in childhood,9,PPSV
+758.0,Down's syndrome,9,PPSV
+758.1,Patau's syndrome,9,PPSV
+758.2,Edward's syndrome,9,PPSV
+758.31,Cri-du-chat syndrome,9,PPSV
+758.32,Velo-cardio-facial syndrome,9,PPSV
+758.33,Other microdeletions,9,PPSV
+758.39,Other autosomal deletions,9,PPSV
+758.4,Balanced autosomal translocation in normal individual,9,PPSV
+758.5,Other conditions due to autosomal anomalies,9,PPSV
+758.6,Gonadal dysgenesis,9,PPSV
+758.7,Klinefelter's syndrome,9,PPSV
+758.81,Other conditions due to sex chromosome anomalies,9,PPSV
+758.89,Other,9,PPSV
+758.9,Conditions due to anomaly of unspecified chromosome,9,PPSV
+140.0Ð209.3,Neoplasms,9,PPSV
+235.0Ð238,Neoplasms of uncertain behavior,9,PPSV
+239,Neoplasms of unspecified nature,9,PPSV
+V42,Organ or tissue replaced by transplant,9,PPSV
+V42.0,Kidney,9,PPSV
+V42.1,Heart,9,PPSV
+V42.2,Heart valve,9,PPSV
+V42.3,Skin,9,PPSV
+V42.4,Bone,9,PPSV
+V42.5,Cornea,9,PPSV
+V42.6,Lung,9,PPSV
+V42.7,Liver,9,PPSV
+V42.8,Other specified organ or tissue,9,PPSV
+V42.81,Bone marrow,9,PPSV
+V42.82,Peripheral stem cells,9,PPSV
+V42.83,Pancreas,9,PPSV
+V42.84,Intestines,9,PPSV
+V42.89,Other,9,PPSV
+V42.9,Unspecified organ or tissue,9,PPSV
+V58.0,Radiotherapy,9,PPSV
+V58.1,Encounter for chemotherapy and immunotherapy for neoplastic conditions,9,PPSV
+V58.11,Encounter for antineoplastic chemotherapy,9,PPSV
+V58.12,Encounter for antineoplastic immunotherapy,9,PPSV
+282.6,Sickle-cell disease,9,PPSV
+282.60,"Sickle-cell disease, unspecified",9,PPSV
+282.61,Hb-SS disease without crisis,9,PPSV
+282.62,Hb-SS disease with crisis,9,PPSV
+282.63,Sickle-cell/Hb-C disease without crisis,9,PPSV
+282.64,Sickle-cell/HB-C disease with crisis,9,PPSV
+282.68,Other sickle-cell disease without crisis,9,PPSV
+282.69,Other sickle-cell disease with crisis,9,PPSV
+282.4,Thalassemias,9,PPSV
+282.41,Sickle-cell thalassemia without crisis,9,PPSV
+282.42,Sickle-cell thalassemia with crisis,9,PPSV
+282.49,Other thalassemia,9,PPSV
+282.7,Other hemoglobinopathies,9,PPSV
+284.0,Constitutional aplastic anemia,9,PPSV
+284.01,Constitutional aplastic anemia,9,PPSV
+284.09,Constitutional aplastic anemia,9,PPSV
+284.1,Pancytopenia,9,PPSV
+284.11,Pancytopenia,9,PPSV
+284.12,Pancytopenia,9,PPSV
+284.19,Pancytopenia,9,PPSV
+284.2,Myelophthisis,9,PPSV
+284.81,Red cell aplasia (acquired) (adult) (with thymoma),9,PPSV
+284.89,Other specified aplastic anemias,9,PPSV
+284.9,"Aplastic anemia, unspecified",9,PPSV
+288.00,"Neutropenia, unspecified",9,PPSV
+288.01,Congenital neutropenia,9,PPSV
+288.02,Cyclic neutropenia,9,PPSV
+288.03,Drug induced neutropenia,9,PPSV
+288.04,Neutropenia due to infection,9,PPSV
+288.09,Other neutropenia,9,PPSV
+288.1,Functional disorders of polymorphonuclear neutrophils,9,PPSV
+288.2,Genetic anomalies of leukocytes,9,PPSV
+759.0,Anomalies of spleen,9,PPSV
+279.00,"Hypogammaglobulinemia, unspecified",9,PPSV
+279.01,Selective IgA immunodeficiency,9,PPSV
+279.02,Selective IgA immunodeficiency,9,PPSV
+279.03,Other selective immunoglobulin deficiencies,9,PPSV
+279.04,Congenital hypogammaglobulinemia,9,PPSV
+279.05,Immunodeficiency with increased IgM,9,PPSV
+279.06,Common variable immunodeficiency,9,PPSV
+279.09,Other,9,PPSV
+279.10,"Immunodeficiency with predominant T-cell defect, unspecified",9,PPSV
+279.11,DiGeorge's syndrome,9,PPSV
+279.12,Wiskott-Aldrich syndrome,9,PPSV
+279.13,Nezelof's syndrome,9,PPSV
+279.19,Other,9,PPSV
+279.2,Combined immunity deficiency,9,PPSV
+279.3,Unspecified immunity deficiency,9,PPSV
+279.4,"Autoimmune disease, not elsewhere classified",9,PPSV
+279.8,Other specified disorders involving the immune mechanism,9,PPSV
+279.9,Unspecified disorder of immune mechanism,9,PPSV
+288.1,Functional disorders of polymorphonuclear neutrophils,9,PPSV
+288.2,Genetic anomalies of leukocytes,9,PPSV
+O42,Human immunodeficiency virus [HIV] disease,9,PPSV
+V08,Asymptomatic human immunodeficiency virus [HIV] infection status,9,PPSV
+585.1,"Chronic kidney disease, Stage I",9,PPSV
+585.2,"Chronic kidney disease, Stage II (mild)",9,PPSV
+585.3,"Chronic kidney disease, Stage III (moderate)",9,PPSV
+585.4,"Chronic kidney disease, Stage III (moderate)",9,PPSV
+585.5,"Chronic kidney disease, Stage V",9,PPSV
+585.6,End stage renal disease,9,PPSV
+585.9,"Chronic kidney disease, unspecified",9,PPSV
+586,"Renal failure, unspecified",9,PPSV
+581.0,With lesion of proliferative glomerulonephritis,9,PPSV
+581.1,With lesion of membranous glomerulonephritis,9,PPSV
+581.2,With lesion of membranoproliferative glomerulonephritis,9,PPSV
+581.3,With lesion of minimal change glomerulonephritis,9,PPSV
+581.81,Nephrotic syndrome in diseases classified elsewhere,9,PPSV
+581.89,Other,9,PPSV
+581.9,Nephrotic syndrome with unspecified pathological lesion in kidney,9,PPSV
+582.0,With lesion of proliferative glomerulonephritis,9,PPSV
+582.1,With lesion of membranous glomerulonephritis,9,PPSV
+582.2,With lesion of membranoproliferative glomerulonephritis,9,PPSV
+582.4,With lesion of rapidly progressive glomerulonephritis,9,PPSV
+582.81,Chronic glomerulonephritis in diseases classified elsewhere,9,PPSV
+582.89,Other,9,PPSV
+582.9,Chronic glomerulonephritis with unspecified pathological lesion in kidney,9,PPSV
+583.0,With lesion of proliferative glomerulonephritis,9,PPSV
+583.1,With lesion of membranous glomerulonephritis,9,PPSV
+583.2,With lesion of membranoproliferative glomerulonephritis,9,PPSV
+583.4,With lesion of rapidly progressive glomerulonephritis,9,PPSV
+583.6,With lesion of renal cortical necrosis,9,PPSV
+583.7,With lesion of renal medullary necrosis,9,PPSV
+583.81,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",9,PPSV
+583.89,Other,9,PPSV
+583.9,With unspecified pathological lesion in kidney,9,PPSV
+753.0,Renal agenesis and dysgenesis,9,PPSV
+753.10,"Cystic kidney disease, unspecified",9,PPSV
+753.11,Congenital single renal cyst,9,PPSV
+753.12,"Polycystic kidney, unspecified type",9,PPSV
+753.13,"Polycystic kidney, autosomal dominant",9,PPSV
+753.14,"Polycystic kidney, autosomal recessive",9,PPSV
+753.15,Renal dysplasia,9,PPSV
+753.16,Medullary cystic kidney,9,PPSV
+753.17,Medullary sponge kidney,9,PPSV
+753.19,Other specified cystic kidney disease,9,PPSV
+318.0,Moderate mental retardation,9,PPSV
+318.1,Severe mental retardation,9,PPSV
+318.2,Profound mental retardation,9,PPSV
+319,Unspecified mental retardation,9,PPSV
+343.0,Diplegic,9,PPSV
+343.1,Hemiplegic,9,PPSV
+343.2,Quadriplegic,9,PPSV
+343.3,Monoplegic,9,PPSV
+343.4,Infantile hemiplegia,9,PPSV
+343.8,Other specified infantile cerebral palsy,9,PPSV
+343.9,"Infantile cerebral palsy, unspecified",9,PPSV
+299.0,Autistic disorder,9,PPSV
+299.00,"Autistic disorder, current or active state",9,PPSV
+299.01,"Autistic disorder, residual state",9,PPSV
+299.80,"Other specified pervasive developmental disorders, current or active state",9,PPSV
+299.81,"Other specified pervasive developmental disorders, residual state",9,PPSV
+299.90,"Unspecified pervasive developmental disorder, current or active state",9,PPSV
+299.91,"Unspecified pervasive developmental disorder, residual state",9,PPSV
+345.0,Generalized nonconvulsive epilepsy,9,PPSV
+345.00,"Generalized nonconvulsive epilepsy, without mention of intractable epilepsy",9,PPSV
+345.01,"Generalized nonconvulsive epilepsy, with intractable epilepsy",9,PPSV
+345.1,Generalized convulsive epilepsy,9,PPSV
+345.10,"Generalized convulsive epilepsy, without mention of intractable epilepsy",9,PPSV
+345.11,"Generalized convulsive epilepsy, with intractable epilepsy",9,PPSV
+345.2,Petit mal status,9,PPSV
+345.3,Grand mal status,9,PPSV
+345.4,Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures,9,PPSV
+345.40,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy",9,PPSV
+345.41,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, with intractable epilepsy",9,PPSV
+345.5,Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures,9,PPSV
+345.50,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",9,PPSV
+345.51,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, with intractable epilepsy",9,PPSV
+345.60,"Infantile spasms, without mention of intractable epilepsy",9,PPSV
+345.61,"Infantile spasms, with intractable epilepsy",9,PPSV
+345.70,"Epilepsia partialis continua,without mention of intractable epilepsy",9,PPSV
+345.71,"Epilepsia partialis continua, with intractable epilepsy",9,PPSV
+345.80,"Other forms of epilepsy and recurrent seizures, without mention of intractable epilepsy",9,PPSV
+345.81,"Other forms of epilepsy and recurrent seizures, with intractable epilepsy",9,PPSV
+345.9,"Epilepsy, unspecified",9,PPSV
+345.90,"Epilepsy, unspecified, without mention of intractable epilepsy",9,PPSV
+345.91,"Epilepsy, unspecified, with intractable epilepsy",9,PPSV
+740.0,Anencephalus,9,PPSV
+740.1,Craniorachischisis,9,PPSV
+740.2,Iniencephaly,9,PPSV
+741.0,Spina bifida: With hydrocephalus,9,PPSV
+741.00,"With hydrocephalus, unspecified region",9,PPSV
+741.01,"With hydrocephalus, cervical region",9,PPSV
+741.02,"With hydrocephalus, dorsal (thoracic) region",9,PPSV
+741.03,"With hydrocephalus, lumbar region",9,PPSV
+741.9,Without mention of hydrocephalus,9,PPSV
+741.90,"Without mention of hydrocephalus,unspecified region",9,PPSV
+741.91,"Without mention of hydrocephalus, cervical region",9,PPSV
+741.92,"Without mention of hydrocephalus, dorsal (thoracic) region",9,PPSV
+741.93,"Without mention of hydrocephalus, lumbar region",9,PPSV
+742.0,Encephalocele,9,PPSV
+742.1,Microcephalus,9,PPSV
+742.2,Reduction deformities of brain,9,PPSV
+742.3,Congenital hydrocephalus,9,PPSV
+742.4,Other specified anomalies of brain,9,PPSV
+742.51,Diastematomyelia,9,PPSV
+742.53,Hydromyelia,9,PPSV
+742.59,Other,9,PPSV
+742.8,Other specified anomalies of nervous system,9,PPSV
+742.9,"Unspecified anomaly of brain, spinal cord, and nervous system",9,PPSV
+359.0,Congenital hereditary muscular dystrophy,9,PPSV
+359.1,Hereditary progressive muscular dystrophy,9,PPSV
+359.21,Myotonic muscular dystrophy,9,PPSV
+359.22,Myotonia congenita,9,PPSV
+359.23,Myotonic chondrodystrophy,9,PPSV
+359.24,Drug-induced myotonia,9,PPSV
+359.29,Other specified myotonic disorder,9,PPSV
+359.3,Periodic paralysis,9,PPSV
+493.0,Extrinsic asthma,9,PPSV
+493.00,"Extrinsic asthma, unspecified",9,PPSV
+493.01,"Extrinsic asthma, with status asthmaticus",9,PPSV
+493.02,"Extrinsic asthma, with (acute) exacerbation",9,PPSV
+493.1,Intrinsic asthma,9,PPSV
+493.10,"Intrinsic asthma,unspecified",9,PPSV
+493.11,"Intrinsic asthma, with status asthmaticus",9,PPSV
+493.12,"Intrinsic asthma, with (acute) exacerbation",9,PPSV
+493.2,Chronic obstructive asthma,9,PPSV
+493.20,"Chronic obstructive asthma, unspecified",9,PPSV
+493.21,"Chronic obstructive asthma, with status asthmaticus",9,PPSV
+493.22,"Chronic obstructive asthma, with (acute) exacerbation",9,PPSV
+439.8,Other forms of asthma,9,PPSV
+439.81,Exercise induced bronchospasm,9,PPSV
+439.82,Cough variant asthma,9,PPSV
+493.9,"Asthma, unspecified",9,PPSV
+277.0,Cystic fibrosis,9,PPSV
+277.00,Without mention of meconium ileus,9,PPSV
+277.01,With meconium ileus,9,PPSV
+277.02,With pulmonary manifestations,9,PPSV
+277.03,With gastrointestinal manifestations,9,PPSV
+277.09,With other manifestations,9,PPSV
+770.7,Chronic respiratory disease arising in the perinatal period (includes Bronchopulmonary dysplasia),9,PPSV
+494.0,Bronchiectasis without acute exacerbation,9,PPSV
+494.1,Bronchiectasis with acute exacerbation,9,PPSV
+748.4,Congenital cystic lung,9,PPSV
+748.5,"Agenesis, hypoplasia, and dysplasia of lung",9,PPSV
+748.60,"Anomaly of lung, unspecified",9,PPSV
+748.61,Congenital bronchiectasis,9,PPSV
+748.69,Other,9,PPSV
+518.83,Chronic respiratory failure,9,PPSV
+518.84,Acute and chronic respiratory failure,9,PPSV
+519.9,Unspecified disease of respiratory system,9,PPSV
+515,Postinflammatory pulmonary fibrosis,9,PPSV
+710.0,Systemic lupus erythematosus,9,PPSV
+714.3,Juvenile chronic polyarthritis,9,PPSV
+714.30,"Polyarticular juvenile rheumatoid arthritis, chronic or unspecified",9,PPSV
+714.31,"Polyarticular juvenile rheumatoid arthritis, acute",9,PPSV
+714.32,Pauciarticular juvenile rheumatoid arthritis,9,PPSV
+714.33,Monoarticular juvenile rheumatoid arthritis,9,PPSV
+446.1,Acute febrile mucocutaneous lymph node syndrome [MCLS],9,PPSV
+349.81,Cerebrospinal fluid rhinorrhea,9,PPSV
+388.61,Cerebrospinal fluid otorrhea,9,PPSV
+20.96,"Implantation or replacement of cochlear prosthetic device, not otherwise specified",9,PPSV
+20.97,"Implantation or replacement of cochlear prosthetic device, single channel",9,PPSV
+20.98,"Implantation or replacement of cochlear prosthetic device, multiple channel",9,PPSV
+Q20.0,Common arterial trunk,10,PPSV
+Q20.3,Discordant ventriculoarterial connection,10,PPSV
+Q20.1,Double outlet right ventricle,10,PPSV
+Q20.5,Discordant atrioventricular connection,10,PPSV
+Q20.3,Discordant ventriculoarterial connection,10,PPSV
+Q20.8,Other congenital malformations of cardiac chambers and connections,10,PPSV
+Q21.3,Tetralogy of Fallot,10,PPSV
+Q20.4,Double inlet ventricle,10,PPSV
+Q21.0,Ventricular septal defect,10,PPSV
+Q21.1,Atrial septal defect,10,PPSV
+Q21.2,Atrioventricular septal defect,10,PPSV
+Q20.8,Other congenital malformations of cardiac chambers and connections,10,PPSV
+Q20.8,Other congenital malformations of cardiac chambers and connections,10,PPSV
+Q21.8,Other congenital malformations of cardiac septa,10,PPSV
+Q21.9,"Congenital malformation of cardiac septum, unspecified",10,PPSV
+Q22.3,Other congenital malformations of pulmonary valve,10,PPSV
+Q22.0,Pulmonary valve atresia,10,PPSV
+Q22.1,Congenital pulmonary valve stenosis,10,PPSV
+Q22.2,Congenital pulmonary valve insufficiency,10,PPSV
+Q22.9,"Congenital malformation of tricuspid valve, unspecified",10,PPSV
+Q22.5,Ebstein's anomaly,10,PPSV
+Q23.0,Congenital stenosis of aortic valve,10,PPSV
+Q23.1,Congenital insufficiency of aortic valve,10,PPSV
+Q23.2,Congenital mitral stenosis,10,PPSV
+Q23.3,Congenital mitral insufficiency,10,PPSV
+Q23.4,Hypoplastic left heart syndrome,10,PPSV
+Q24.4,Congenital subaortic stenosis,10,PPSV
+Q24.2,Cor triatriatum,10,PPSV
+Q24.3,Pulmonary infundibular stenosis,10,PPSV
+Q24.8,Other specified congenital malformations of heart,10,PPSV
+Q24.5,Malformation of coronary vessels,10,PPSV
+Q24.6,Congenital heart block,10,PPSV
+Q24.0,Dextrocardia,10,PPSV
+Q24.1,Levocardia,10,PPSV
+Q24.8,Other specified congenital malformations of heart,10,PPSV
+Q23.8,Other congenital malformations of aortic and mitral valves,10,PPSV
+Q24.8,Other specified congenital malformations of heart,10,PPSV
+Q20.9,"Congenital malformation of cardiac chambers and connections, unspecified",10,PPSV
+Q24.9 ,"Congenital malformation of heart, unspecified",10,PPSV
+Q25.0,Patent ductus arteriosus,10,PPSV
+Q25.1,Coarctation of aorta,10,PPSV
+Q25.2,Atresia of aorta,10,PPSV
+Q25.4,Other congenital malformations of aorta,10,PPSV
+Q25.4,Other congenital malformations of aorta,10,PPSV
+Q25.2,Atresia of aorta,10,PPSV
+Q25.3,Supravalvular aortic stenosis,10,PPSV
+Q25.4,Other congenital malformations of aorta,10,PPSV
+Q26.9,"Congenital malformation of great vein, unspecified",10,PPSV
+Q26.2,Total anomalous pulmonary venous connection,10,PPSV
+Q26.3,Partial anomalous pulmonary venous connection,10,PPSV
+Q26.0,Congenital stenosis of vena cava,10,PPSV
+Q26.1,Persistent left superior vena cava,10,PPSV
+Q26.8,Other congenital malformations of great veins,10,PPSV
+I42.3,Endomyocardial (eosinophilic) disease,10,PPSV
+I42.8,Other cardiomyopathies,10,PPSV
+I42.4,Endocardial fibroelastosis,10,PPSV
+I42.5,Other restrictive cardiomyopathy,10,PPSV
+I42.8,Other cardiomyopathies,10,PPSV
+I51.5,Myocardial degeneration,10,PPSV
+I51.7,Cardiomegaly,10,PPSV
+I27.0,Primary pulmonary hypertension,10,PPSV
+I27.1,Kyphoscoliotic heart disease,10,PPSV
+I27.82,Chronic pulmonary embolism,10,PPSV
+I27.2 ,Other secondary pulmonary hypertension,10,PPSV
+I27.89,Other specified pulmonary heart diseases,10,PPSV
+I27.81,Cor pulmonale (chronic),10,PPSV
+I27.9,"Pulmonary heart disease, unspecified",10,PPSV
+I50.9,"Heart failure, unspecified",10,PPSV
+I50.1,Left ventricular failure,10,PPSV
+I50.20,Unspecified systolic (congestive) heart failure,10,PPSV
+I50.21,Acute systolic (congestive) heart failure,10,PPSV
+I50.22,Chronic systolic (congestive) heart failure,10,PPSV
+I50.23,Acute on chronic systolic (congestive) heart failure,10,PPSV
+I50.30,Unspecified diastolic (congestive) heart failure,10,PPSV
+I50.31,Acute diastolic (congestive) heart failure,10,PPSV
+I50.32,Chronic diastolic (congestive) heart failure,10,PPSV
+I50.33,Acute on chronic diastolic (congestive) heart failure,10,PPSV
+I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure,10,PPSV
+I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure,10,PPSV
+I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure,10,PPSV
+I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure,10,PPSV
+I50.9,"Heart failure, unspecified",10,PPSV
+I34.0,Nonrheumatic mitral (valve) insufficiency,10,PPSV
+I34.8,Other nonrheumatic mitral valve disorders,10,PPSV
+I35.0,Nonrheumatic aortic (valve) stenosis,10,PPSV
+I35.1,Nonrheumatic aortic (valve) insufficiency,10,PPSV
+I35.2,Nonrheumatic aortic (valve) stenosis with insufficiency,10,PPSV
+I35.8,Other nonrheumatic aortic valve disorders,10,PPSV
+I35.9,"Nonrheumatic aortic valve disorder, unspecified",10,PPSV
+I36.0,Nonrheumatic tricuspid (valve) stenosis,10,PPSV
+I36.8,Other nonrheumatic tricuspid valve disorders,10,PPSV
+I37.0,Nonrheumatic pulmonary valve stenosis,10,PPSV
+I37.8,Other nonrheumatic pulmonary valve disorders,10,PPSV
+I01.0,Acute rheumatic pericarditis,10,PPSV
+I01.1,Acute rheumatic endocarditis,10,PPSV
+I01.2,Acute rheumatic myocarditis,10,PPSV
+I01.8,Other acute rheumatic heart disease,10,PPSV
+I01.9,"Acute rheumatic heart disease, unspecified",10,PPSV
+I02.0,Rheumatic chorea with heart involvement,10,PPSV
+I09.2,Chronic rheumatic pericarditis,10,PPSV
+I05.0,Rheumatic mitral stenosis,10,PPSV
+I05.1,Rheumatic mitral insufficiency,10,PPSV
+I05.2,Rheumatic mitral stenosis with insufficiency,10,PPSV
+I05.8,Other rheumatic mitral valve diseases,10,PPSV
+I06.0,Rheumatic aortic stenosis,10,PPSV
+I06.1,Rheumatic aortic insufficiency,10,PPSV
+I06.2,Rheumatic aortic stenosis with insufficiency,10,PPSV
+I06.8,Other rheumatic aortic valve diseases,10,PPSV
+I06.9,"Rheumatic aortic valve disease, unspecified",10,PPSV
+I08.0,Rheumatic disorders of both mitral and aortic valves,10,PPSV
+I08.0,Rheumatic disorders of both mitral and aortic valves,10,PPSV
+I08.0,Rheumatic disorders of both mitral and aortic valves,10,PPSV
+I08.0,Rheumatic disorders of both mitral and aortic valves,10,PPSV
+I08.8,Other rheumatic multiple valve diseases,10,PPSV
+I08.9,"Rheumatic multiple valve disease, unspecified",10,PPSV
+I07.1,Rheumatic tricuspid insufficiency,10,PPSV
+I07.2,Rheumatic tricuspid stenosis and insufficiency,10,PPSV
+I07.8,Other rheumatic tricuspid valve diseases,10,PPSV
+I09.89,Other specified rheumatic heart diseases,10,PPSV
+I09.1,"Rheumatic diseases of endocardium, valve unspecified",10,PPSV
+I09.0,Rheumatic myocarditis,10,PPSV
+I09.9,"Rheumatic heart disease, unspecified",10,PPSV
+I09.81,Rheumatic heart failure,10,PPSV
+I09.89,Other specified rheumatic heart diseases,10,PPSV
+E11.9,Type 2 diabetes mellitus without complications,10,PPSV
+E10.9,Type 1 diabetes mellitus without complications,10,PPSV
+E11.65,Type 2 diabetes mellitus with hyperglycemia,10,PPSV
+E10.65,Type 1 diabetes mellitus with hyperglycemia,10,PPSV
+E11.69,Type 2 diabetes mellitus with other specified complication,10,PPSV
+E10.10,Type 1 diabetes mellitus with ketoacidosis without coma,10,PPSV
+E11.65,Type 2 diabetes mellitus with hyperglycemia,10,PPSV
+E11.69,Type 2 diabetes mellitus with other specified complication,10,PPSV
+E10.10,Type 1 diabetes mellitus with ketoacidosis without coma,10,PPSV
+E10.65,Type 1 diabetes mellitus with hyperglycemia,10,PPSV
+E11.00,Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC),10,PPSV
+E11.01,Type 2 diabetes mellitus with hyperosmolarity with coma,10,PPSV
+E10.69,Type 1 diabetes mellitus with other specified complication,10,PPSV
+E11.00,Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC),10,PPSV
+E11.65,Type 2 diabetes mellitus with hyperglycemia,10,PPSV
+E10.65,Type 1 diabetes mellitus with hyperglycemia,10,PPSV
+E10.69,Type 1 diabetes mellitus with other specified complication,10,PPSV
+E11.641,Type 2 diabetes mellitus with hypoglycemia with coma,10,PPSV
+E10.11,Type 1 diabetes mellitus with ketoacidosis with coma,10,PPSV
+E10.641,Type 1 diabetes mellitus with hypoglycemia with coma,10,PPSV
+E11.01,Type 2 diabetes mellitus with hyperosmolarity with coma,10,PPSV
+E11.65,Type 2 diabetes mellitus with hyperglycemia,10,PPSV
+E10.11,Type 1 diabetes mellitus with ketoacidosis with coma,10,PPSV
+E10.65,Type 1 diabetes mellitus with hyperglycemia,10,PPSV
+E11.29,Type 2 diabetes mellitus with other diabetic kidney complication,10,PPSV
+E10.29,Type 1 diabetes mellitus with other diabetic kidney complication,10,PPSV
+E11.21,Type 2 diabetes mellitus with diabetic nephropathy,10,PPSV
+E11.65,Type 2 diabetes mellitus with hyperglycemia,10,PPSV
+E10.21,Type 1 diabetes mellitus with diabetic nephropathy,10,PPSV
+E10.65,Type 1 diabetes mellitus with hyperglycemia,10,PPSV
+E11.311,Type 2 diabetes mellitus with unspecified diabetic retinopathy with macular edema,10,PPSV
+E11.319,Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema,10,PPSV
+E11.36,Type 2 diabetes mellitus with diabetic cataract,10,PPSV
+E11.39,Type 2 diabetes mellitus with other diabetic ophthalmic complication,10,PPSV
+E10.311,Type 1 diabetes mellitus with unspecified diabetic retinopathy with macular edema,10,PPSV
+E10.319,Type 1 diabetes mellitus with unspecified diabetic retinopathy without macular edema,10,PPSV
+E10.36,Type 1 diabetes mellitus with diabetic cataract,10,PPSV
+E10.39,Type 1 diabetes mellitus with other diabetic ophthalmic complication,10,PPSV
+E11.311,Type 2 diabetes mellitus with unspecified diabetic retinopathy with macular edema,10,PPSV
+E11.319,Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema,10,PPSV
+E11.36,Type 2 diabetes mellitus with diabetic cataract,10,PPSV
+E11.39,Type 2 diabetes mellitus with other diabetic ophthalmic complication,10,PPSV
+E11.65,Type 2 diabetes mellitus with hyperglycemia,10,PPSV
+E10.311,Type 1 diabetes mellitus with unspecified diabetic retinopathy with macular edema,10,PPSV
+E10.319,Type 1 diabetes mellitus with unspecified diabetic retinopathy without macular edema,10,PPSV
+E10.36,Type 1 diabetes mellitus with diabetic cataract,10,PPSV
+E10.39,Type 1 diabetes mellitus with other diabetic ophthalmic complication,10,PPSV
+E10.65,Type 1 diabetes mellitus with hyperglycemia,10,PPSV
+E11.40,"Type 2 diabetes mellitus with diabetic neuropathy, unspecified",10,PPSV
+E10.40,"Type 1 diabetes mellitus with diabetic neuropathy, unspecified",10,PPSV
+E11.40,"Type 2 diabetes mellitus with diabetic neuropathy, unspecified",10,PPSV
+E11.65,Type 2 diabetes mellitus with hyperglycemia,10,PPSV
+E10.40,"Type 1 diabetes mellitus with diabetic neuropathy, unspecified",10,PPSV
+E10.65,Type 1 diabetes mellitus with hyperglycemia,10,PPSV
+E11.51,Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,10,PPSV
+E10.51,Type 1 diabetes mellitus with diabetic peripheral angiopathy without gangrene,10,PPSV
+E11.51,Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,10,PPSV
+E11.65,Type 2 diabetes mellitus with hyperglycemia,10,PPSV
+E10.51,Type 1 diabetes mellitus with diabetic peripheral angiopathy without gangrene,10,PPSV
+E10.65,Type 1 diabetes mellitus with hyperglycemia,10,PPSV
+E11.618,Type 2 diabetes mellitus with other diabetic arthropathy,10,PPSV
+E11.620,Type 2 diabetes mellitus with diabetic dermatitis,10,PPSV
+E11.621,Type 2 diabetes mellitus with foot ulcer,10,PPSV
+E11.622,Type 2 diabetes mellitus with other skin ulcer,10,PPSV
+E11.628,Type 2 diabetes mellitus with other skin complications,10,PPSV
+E11.630,Type 2 diabetes mellitus with periodontal disease,10,PPSV
+E11.638,Type 2 diabetes mellitus with other oral complications,10,PPSV
+E11.649,Type 2 diabetes mellitus with hypoglycemia without coma,10,PPSV
+E11.65,Type 2 diabetes mellitus with hyperglycemia,10,PPSV
+E11.69,Type 2 diabetes mellitus with other specified complication,10,PPSV
+E10.618,Type 1 diabetes mellitus with other diabetic arthropathy,10,PPSV
+E10.620,Type 1 diabetes mellitus with diabetic dermatitis,10,PPSV
+E10.621,Type 1 diabetes mellitus with foot ulcer,10,PPSV
+E10.622,Type 1 diabetes mellitus with other skin ulcer,10,PPSV
+E10.628,Type 1 diabetes mellitus with other skin complications,10,PPSV
+E10.630,Type 1 diabetes mellitus with periodontal disease,10,PPSV
+E10.638,Type 1 diabetes mellitus with other oral complications,10,PPSV
+E10.649,Type 1 diabetes mellitus with hypoglycemia without coma,10,PPSV
+E10.65,Type 1 diabetes mellitus with hyperglycemia,10,PPSV
+E10.69,Type 1 diabetes mellitus with other specified complication,10,PPSV
+E11.65,Type 2 diabetes mellitus with hyperglycemia,10,PPSV
+E11.69,Type 2 diabetes mellitus with other specified complication,10,PPSV
+E10.65,Type 1 diabetes mellitus with hyperglycemia,10,PPSV
+E10.69,Type 1 diabetes mellitus with other specified complication,10,PPSV
+E11.8,Type 2 diabetes mellitus with unspecified complications,10,PPSV
+E10.8,Type 1 diabetes mellitus with unspecified complications,10,PPSV
+E11.65,Type 2 diabetes mellitus with hyperglycemia,10,PPSV
+E11.8,Type 2 diabetes mellitus with unspecified complications,10,PPSV
+E10.65,Type 1 diabetes mellitus with hyperglycemia,10,PPSV
+E10.8,Type 1 diabetes mellitus with unspecified complications,10,PPSV
+K73.9,"Chronic hepatitis, unspecified",10,PPSV
+K73.0,"Chronic persistent hepatitis, not elsewhere classified",10,PPSV
+K75.4,Autoimmune hepatitis,10,PPSV
+K73.2,"Chronic active hepatitis, not elsewhere classified",10,PPSV
+K73.8,"Other chronic hepatitis, not elsewhere classified",10,PPSV
+K74.0,Hepatic fibrosis,10,PPSV
+K74.60,Unspecified cirrhosis of liver,10,PPSV
+K74.69,Other cirrhosis of liver,10,PPSV
+K74.3,Primary biliary cirrhosis,10,PPSV
+K74.4,Secondary biliary cirrhosis,10,PPSV
+K74.5,"Biliary cirrhosis, unspecified",10,PPSV
+K76.0,"Fatty (change of) liver, not elsewhere classified",10,PPSV
+K76.89,Other specified diseases of liver,10,PPSV
+K74.1,Hepatic sclerosis,10,PPSV
+K76.9,"Liver disease, unspecified",10,PPSV
+K50.00,Crohn's disease of small intestine without complications,10,PPSV
+K50.10,Crohn's disease of large intestine without complications,10,PPSV
+K50.80,Crohn's disease of both small and large intestine without complications,10,PPSV
+K50.90,"Crohn's disease, unspecified, without complications",10,PPSV
+K51.80,Other ulcerative colitis without complications,10,PPSV
+K51.80,Other ulcerative colitis without complications,10,PPSV
+K51.20,Ulcerative (chronic) proctitis without complications,10,PPSV
+K51.30,Ulcerative (chronic) rectosigmoiditis without complications,10,PPSV
+K51.40,Inflammatory polyps of colon without complications,10,PPSV
+K51.50,Left sided colitis without complications,10,PPSV
+K51.00,Ulcerative (chronic) pancolitis without complications,10,PPSV
+K51.80,Other ulcerative colitis without complications,10,PPSV
+K51.90,"Ulcerative colitis, unspecified, without complications",10,PPSV
+K44.9,Diaphragmatic hernia without obstruction or gangrene,10,PPSV
+Q79.0,Congenital diaphragmatic hernia,10,PPSV
+Q79.1,Other congenital malformations of diaphragm,10,PPSV
+Q79.59,Other congenital malformations of abdominal wall,10,PPSV
+Q79.4,Prune belly syndrome,10,PPSV
+Q79.51,Congenital hernia of bladder,10,PPSV
+Q79.59,Other congenital malformations of abdominal wall,10,PPSV
+E53.8,Deficiency of other specified B group vitamins,10,PPSV
+E72.00,"Disorders of amino-acid transport, unspecified",10,PPSV
+E72.01,Cystinuria,10,PPSV
+E72.04,Cystinosis,10,PPSV
+E72.09,Other disorders of amino-acid transport,10,PPSV
+E70.0,Classical phenylketonuria,10,PPSV
+E70.21,Tyrosinemia,10,PPSV
+E70.29,Other disorders of tyrosine metabolism,10,PPSV
+E70.30,"Albinism, unspecified",10,PPSV
+E70.5,Disorders of tryptophan metabolism,10,PPSV
+E70.8,Other disorders of aromatic amino-acid metabolism,10,PPSV
+E71.0,Maple-syrup-urine disease,10,PPSV
+E71.120,Methylmalonic acidemia,10,PPSV
+E71.19,Other disorders of branched-chain amino-acid metabolism,10,PPSV
+E71.2,"Disorder of branched-chain amino-acid metabolism, unspecified",10,PPSV
+E72.10,"Disorders of sulfur-bearing amino-acid metabolism, unspecified",10,PPSV
+E72.11,Homocystinuria,10,PPSV
+E72.19,Other disorders of sulfur-bearing amino-acid metabolism,10,PPSV
+E70.40,"Disorders of histidine metabolism, unspecified",10,PPSV
+E72.20,"Disorder of urea cycle metabolism, unspecified",10,PPSV
+E72.22,Arginosuccinic aciduria,10,PPSV
+E72.23,Citrullinemia,10,PPSV
+E72.29,Other disorders of urea cycle metabolism,10,PPSV
+E72.3,Disorders of lysine and hydroxylysine metabolism,10,PPSV
+E72.8,Other specified disorders of amino-acid metabolism,10,PPSV
+E72.03,Lowe's syndrome,10,PPSV
+E72.8,Other specified disorders of amino-acid metabolism,10,PPSV
+E74.00,"Glycogen storage disease, unspecified",10,PPSV
+E74.01,von Gierke disease,10,PPSV
+E74.04,McArdle disease,10,PPSV
+E74.09,Other glycogen storage disease,10,PPSV
+E74.21,Galactosemia,10,PPSV
+E74.11,Essential fructosuria,10,PPSV
+E74.12,Hereditary fructose intolerance,10,PPSV
+E72.52,Trimethylaminuria,10,PPSV
+E72.53,Hyperoxaluria,10,PPSV
+E74.4,Disorders of pyruvate metabolism and gluconeogenesis,10,PPSV
+E74.8,Other specified disorders of carbohydrate metabolism,10,PPSV
+E77.1,Defects in glycoprotein degradation,10,PPSV
+E75.21,Fabry (-Anderson) disease,10,PPSV
+E75.22,Gaucher disease,10,PPSV
+E75.249,"Niemann-Pick disease, unspecified",10,PPSV
+E77.0,Defects in post-translational modification of lysosomal enzymes,10,PPSV
+E77.1,Defects in glycoprotein degradation,10,PPSV
+E79.1,Lesch-Nyhan syndrome,10,PPSV
+E79.8,Other disorders of purine and pyrimidine metabolism,10,PPSV
+D84.1,Defects in the complement system,10,PPSV
+E71.41,Primary carnitine deficiency,10,PPSV
+E71.310,Long chain/very long chain acyl CoA dehydrogenase deficiency,10,PPSV
+E71.311,Medium chain acyl CoA dehydrogenase deficiency,10,PPSV
+E71.312,Short chain acyl CoA dehydrogenase deficiency,10,PPSV
+E71.313,Glutaric aciduria type II,10,PPSV
+E71.314,Muscle carnitine palmitoyltransferase deficiency,10,PPSV
+E71.318,Other disorders of fatty-acid oxidation,10,PPSV
+E71.50,"Peroxisomal disorder, unspecified",10,PPSV
+E71.510,Zellweger syndrome,10,PPSV
+E71.511,Neonatal adrenoleukodystrophy,10,PPSV
+E71.522,Adrenomyeloneuropathy,10,PPSV
+E71.529,"X-linked adrenoleukodystrophy, unspecified type",10,PPSV
+E71.548,Other peroxisomal disorders,10,PPSV
+E88.40,"Mitochondrial metabolism disorder, unspecified",10,PPSV
+E88.41,MELAS syndrome,10,PPSV
+E88.42,MERRF syndrome,10,PPSV
+E88.49,Other mitochondrial metabolism disorders,10,PPSV
+H49.819,"Kearns-Sayre syndrome, unspecified eye",10,PPSV
+C96.5,Multifocal and unisystemic Langerhans-cell histiocytosis,10,PPSV
+C96.6,Unifocal Langerhans-cell histiocytosis,10,PPSV
+E71.39,Other disorders of fatty-acid metabolism,10,PPSV
+E80.3,Defects of catalase and peroxidase,10,PPSV
+E88.89,Other specified metabolic disorders,10,PPSV
+E88.9,"Metabolic disorder, unspecified",10,PPSV
+E88.9,"Metabolic disorder, unspecified",10,PPSV
+E75.23,Krabbe disease,10,PPSV
+E75.25,Metachromatic leukodystrophy,10,PPSV
+E75.29,Other sphingolipidosis,10,PPSV
+E75.02,Tay-Sachs disease,10,PPSV
+E75.19,Other gangliosidosis,10,PPSV
+E75.4,Neuronal ceroid lipofuscinosis,10,PPSV
+F84.2,Rett's syndrome,10,PPSV
+G31.81,Alpers disease,10,PPSV
+G31.82,Leigh's disease,10,PPSV
+Q90.9,"Down syndrome, unspecified",10,PPSV
+Q91.7,"Trisomy 13, unspecified",10,PPSV
+Q91.3,"Trisomy 18, unspecified",10,PPSV
+Q93.4,Deletion of short arm of chromosome 5,10,PPSV
+Q93.81,Velo-cardio-facial syndrome,10,PPSV
+Q93.88,Other microdeletions,10,PPSV
+Q93.3,Deletion of short arm of chromosome 4,10,PPSV
+Q93.7,Deletions with other complex rearrangements,10,PPSV
+Q93.89,Other deletions from the autosomes,10,PPSV
+Q95.0,Balanced translocation and insertion in normal individual,10,PPSV
+Q92.8,Other specified trisomies and partial trisomies of autosomes,10,PPSV
+Q96.9,"Turner's syndrome, unspecified",10,PPSV
+Q98.4,"Klinefelter syndrome, unspecified",10,PPSV
+Q97.0,"Karyotype 47, XXX",10,PPSV
+Q97.1,Female with more than three X chromosomes,10,PPSV
+Q97.2,"Mosaicism, lines with various numbers of X chromosomes",10,PPSV
+Q97.8,"Other specified sex chromosome abnormalities, female phenotype",10,PPSV
+Q98.5,"Karyotype 47, XYY",10,PPSV
+Q98.7,Male with sex chromosome mosaicism,10,PPSV
+Q98.8,"Other specified sex chromosome abnormalities, male phenotype",10,PPSV
+Q99.8,Other specified chromosome abnormalities,10,PPSV
+Q99.8,Other specified chromosome abnormalities,10,PPSV
+Q99.9,"Chromosomal abnormality, unspecified",10,PPSV
+C00 - C96,Malignant Neoplasms,10,PPSV
+D37-D48,"Neoplasms of uncertain behavior, polycythemia vera and myelodysplastic syndromes",10,PPSV
+D49,Neoplasms of unspecified behavior,10,PPSV
+Z94.0,Kidney transplant status,10,PPSV
+Z94.1,Heart transplant status,10,PPSV
+Z95.3,Presence of xenogenic heart valve,10,PPSV
+Z94.5,Skin transplant status,10,PPSV
+Z94.6,Bone transplant status,10,PPSV
+Z94.7,Corneal transplant status,10,PPSV
+Z94.2,Lung transplant status,10,PPSV
+Z94.4,Liver transplant status,10,PPSV
+Z94.81,Bone marrow transplant status,10,PPSV
+Z94.84,Stem cells transplant status,10,PPSV
+Z94.83,Pancreas transplant status,10,PPSV
+Z94.82,Intestine transplant status,10,PPSV
+Z94.89,Other transplanted organ and tissue status,10,PPSV
+Z94.9,"Transplanted organ and tissue status, unspecified",10,PPSV
+Z51.0,Encounter for antineoplastic radiation therapy,10,PPSV
+Z51.11,Encounter for antineoplastic chemotherapy,10,PPSV
+Z51.12,Encounter for antineoplastic immunotherapy,10,PPSV
+D57.1,Sickle-cell disease without crisis,10,PPSV
+D57.1,Sickle-cell disease without crisis,10,PPSV
+D57.00,"Hb-SS disease with crisis, unspecified",10,PPSV
+D57.20,Sickle-cell/Hb-C disease without crisis,10,PPSV
+D57.219,"Sickle-cell/Hb-C disease with crisis, unspecified",10,PPSV
+D57.80,Other sickle-cell disorders without crisis,10,PPSV
+D57.819,"Other sickle-cell disorders with crisis, unspecified",10,PPSV
+D57.40,Sickle-cell thalassemia without crisis,10,PPSV
+D57.419,"Sickle-cell thalassemia with crisis, unspecified",10,PPSV
+D56.8,Other thalassemias,10,PPSV
+D56.4,Hereditary persistence of fetal hemoglobin [HPFH],10,PPSV
+D58.2,Other hemoglobinopathies,10,PPSV
+D61.01,Constitutional (pure) red blood cell aplasia,10,PPSV
+D61.09,Other constitutional aplastic anemia,10,PPSV
+D61.810,Antineoplastic chemotherapy induced pancytopenia,10,PPSV
+D61.811,Other drug-induced pancytopenia,10,PPSV
+D61.818,Other pancytopenia,10,PPSV
+D61.82,Myelophthisis,10,PPSV
+D60.0,Chronic acquired pure red cell aplasia,10,PPSV
+D60.1,Transient acquired pure red cell aplasia,10,PPSV
+D60.8,Other acquired pure red cell aplasias,10,PPSV
+D60.9,"Acquired pure red cell aplasia, unspecified",10,PPSV
+D61.1,Drug-induced aplastic anemia,10,PPSV
+D61.2,Aplastic anemia due to other external agents,10,PPSV
+D61.89,Other specified aplastic anemias and other bone marrow failure syndromes,10,PPSV
+D61.9,"Aplastic anemia, unspecified",10,PPSV
+D70.9,"Neutropenia, unspecified",10,PPSV
+D70.0,Congenital agranulocytosis,10,PPSV
+D70.4,Cyclic neutropenia,10,PPSV
+D70.1,Agranulocytosis secondary to cancer chemotherapy,10,PPSV
+D70.2,Other drug-induced agranulocytosis,10,PPSV
+D70.3,Neutropenia due to infection,10,PPSV
+D70.8,Other neutropenia,10,PPSV
+D71,Functional disorders of polymorphonuclear neutrophils,10,PPSV
+D72.0,Genetic anomalies of leukocytes,10,PPSV
+Q89.01,Asplenia (congenital),10,PPSV
+Q89.09,Congenital malformations of spleen,10,PPSV
+D80.1,Nonfamilial hypogammaglobulinemia,10,PPSV
+D80.2,Selective deficiency of immunoglobulin A [IgA],10,PPSV
+D80.4,Selective deficiency of immunoglobulin M [IgM],10,PPSV
+D80.3,Selective deficiency of immunoglobulin G [IgG] subclasses,10,PPSV
+D80.0,Hereditary hypogammaglobulinemia,10,PPSV
+D80.5,Immunodeficiency with increased immunoglobulin M [IgM],10,PPSV
+D83.8,Other common variable immunodeficiencies,10,PPSV
+D83.9,"Common variable immunodeficiency, unspecified",10,PPSV
+D80.7,Transient hypogammaglobulinemia of infancy,10,PPSV
+D83.1,Common variable immunodeficiency with predominant immunoregulatory T-cell disorders,10,PPSV
+D82.1,Di George's syndrome,10,PPSV
+D82.0,Wiskott-Aldrich syndrome,10,PPSV
+D81.4,Nezelof's syndrome,10,PPSV
+D80.8,Other immunodeficiencies with predominantly antibody defects,10,PPSV
+D81.0,Severe combined immunodeficiency [SCID] with reticular dysgenesis,10,PPSV
+D81.1,Severe combined immunodeficiency [SCID] with low T- and B-cell numbers,10,PPSV
+D81.2,Severe combined immunodeficiency [SCID] with low or normal B-cell numbers,10,PPSV
+D81.89,Other combined immunodeficiencies,10,PPSV
+D81.9,"Combined immunodeficiency, unspecified",10,PPSV
+D84.9,"Immunodeficiency, unspecified",10,PPSV
+D84.1,Defects in the complement system,10,PPSV
+D89.89,"Other specified disorders involving the immune mechanism, not elsewhere classified",10,PPSV
+M35.9,"Systemic involvement of connective tissue, unspecified",10,PPSV
+D89.9,"Disorder involving the immune mechanism, unspecified",10,PPSV
+D71,Functional disorders of polymorphonuclear neutrophils,10,PPSV
+D72.0,Genetic anomalies of leukocytes,10,PPSV
+B20,Human immunodeficiency virus [HIV] disease,10,PPSV
+Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,10,PPSV
+N18.1,"Chronic kidney disease, stage 1",10,PPSV
+N18.2,"Chronic kidney disease, stage 2 (mild)",10,PPSV
+N18.3,"Chronic kidney disease, stage 3 (moderate)",10,PPSV
+N18.4,"Chronic kidney disease, stage 4 (severe)",10,PPSV
+N18.5,"Chronic kidney disease, stage 5",10,PPSV
+N18.6,End stage renal disease,10,PPSV
+N18.9,"Chronic kidney disease, unspecified",10,PPSV
+N19,Unspecified kidney failure,10,PPSV
+N04.4,Nephrotic syndrome with diffuse endocapillary proliferative glomerulonephritis,10,PPSV
+N02.2,Recurrent and persistent hematuria with diffuse membranous glomerulonephritis,10,PPSV
+N04.3,Nephrotic syndrome with diffuse mesangial proliferative glomerulonephritis,10,PPSV
+N04.0,Nephrotic syndrome with minor glomerular abnormality,10,PPSV
+N08,Glomerular disorders in diseases classified elsewhere,10,PPSV
+N04.8,Nephrotic syndrome with other morphologic changes,10,PPSV
+N04.9,Nephrotic syndrome with unspecified morphologic changes,10,PPSV
+N03.2,Chronic nephritic syndrome with diffuse membranous glomerulonephritis,10,PPSV
+N03.3,Chronic nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,10,PPSV
+N03.5,Chronic nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,10,PPSV
+N03.8,Chronic nephritic syndrome with other morphologic changes,10,PPSV
+N08,Glomerular disorders in diseases classified elsewhere,10,PPSV
+N03.8,Chronic nephritic syndrome with other morphologic changes,10,PPSV
+N03.9,Chronic nephritic syndrome with unspecified morphologic changes,10,PPSV
+N05.9,Unspecified nephritic syndrome with unspecified morphologic changes,10,PPSV
+N05.2,Unspecified nephritic syndrome with diffuse membranous glomerulonephritis,10,PPSV
+N05.5,Unspecified nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,10,PPSV
+N05.9,Unspecified nephritic syndrome with unspecified morphologic changes,10,PPSV
+N17.1,Acute kidney failure with acute cortical necrosis,10,PPSV
+N17.2,Acute kidney failure with medullary necrosis,10,PPSV
+N08,Glomerular disorders in diseases classified elsewhere,10,PPSV
+N05.8,Unspecified nephritic syndrome with other morphologic changes,10,PPSV
+N05.9,Unspecified nephritic syndrome with unspecified morphologic changes,10,PPSV
+Q60.2,"Renal agenesis, unspecified",10,PPSV
+Q60.5,"Renal hypoplasia, unspecified",10,PPSV
+Q61.00,"Congenital renal cyst, unspecified",10,PPSV
+Q61.9,"Cystic kidney disease, unspecified",10,PPSV
+Q61.01,Congenital single renal cyst,10,PPSV
+Q61.3,"Polycystic kidney, unspecified",10,PPSV
+Q61.2,"Polycystic kidney, adult type",10,PPSV
+Q61.19,"Other polycystic kidney, infantile type",10,PPSV
+Q61.4,Renal dysplasia,10,PPSV
+Q61.5,Medullary cystic kidney,10,PPSV
+Q61.5,Medullary cystic kidney,10,PPSV
+Q61.02,Congenital multiple renal cysts,10,PPSV
+Q61.8,Other cystic kidney diseases,10,PPSV
+F71,Moderate intellectual disabilities,10,PPSV
+F72,Severe intellectual disabilities,10,PPSV
+F73,Profound intellectual disabilities,10,PPSV
+F79,Unspecified intellectual disabilities,10,PPSV
+G80.1,Spastic diplegic cerebral palsy,10,PPSV
+G80.2,Spastic hemiplegic cerebral palsy,10,PPSV
+G80.0,Spastic quadriplegic cerebral palsy,10,PPSV
+G80.8,Other cerebral palsy,10,PPSV
+G80.2,Spastic hemiplegic cerebral palsy,10,PPSV
+G80.8,Other cerebral palsy,10,PPSV
+G80.9,"Cerebral palsy, unspecified",10,PPSV
+F84.0,Autistic disorder,10,PPSV
+F84.0,Autistic disorder,10,PPSV
+F84.5,Asperger's syndrome,10,PPSV
+F84.8,Other pervasive developmental disorders,10,PPSV
+F84.5,Asperger's syndrome,10,PPSV
+F84.8,Other pervasive developmental disorders,10,PPSV
+F84.9,"Pervasive developmental disorder, unspecified",10,PPSV
+F84.9,"Pervasive developmental disorder, unspecified",10,PPSV
+G40.309,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable, without status epilepticus",10,PPSV
+G40.311,"Generalized idiopathic epilepsy and epileptic syndromes, intractable, with status epilepticus",10,PPSV
+G40.309,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable, without status epilepticus",10,PPSV
+G40.311,"Generalized idiopathic epilepsy and epileptic syndromes, intractable, with status epilepticus",10,PPSV
+G40.301,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable, with status epilepticus",10,PPSV
+G40.301,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable, with status epilepticus",10,PPSV
+G40.201,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, with status epilepticus",10,PPSV
+G40.209,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, without status epilepticus",10,PPSV
+G40.211,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, with status epilepticus",10,PPSV
+G40.219,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, without status epilepticus",10,PPSV
+G40.101,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, with status epilepticus",10,PPSV
+G40.109,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, without status epilepticus",10,PPSV
+G40.111,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, with status epilepticus",10,PPSV
+G40.119,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, without status epilepticus",10,PPSV
+G40.401,"Other generalized epilepsy and epileptic syndromes, not intractable, with status epilepticus",10,PPSV
+G40.409,"Other generalized epilepsy and epileptic syndromes, not intractable, without status epilepticus",10,PPSV
+G40.411,"Other generalized epilepsy and epileptic syndromes, intractable, with status epilepticus",10,PPSV
+G40.419,"Other generalized epilepsy and epileptic syndromes, intractable, without status epilepticus",10,PPSV
+G40.101,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, with status epilepticus",10,PPSV
+G40.109,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, without status epilepticus",10,PPSV
+G40.111,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, with status epilepticus",10,PPSV
+G40.119,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, without status epilepticus",10,PPSV
+G40.101,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, with status epilepticus",10,PPSV
+G40.109,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, without status epilepticus",10,PPSV
+G40.501,"Epileptic seizures related to external causes, not intractable, with status epilepticus",10,PPSV
+G40.509,"Epileptic seizures related to external causes, not intractable, without status epilepticus",10,PPSV
+G40.802,"Other epilepsy, not intractable, without status epilepticus",10,PPSV
+G40.111,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, with status epilepticus",10,PPSV
+G40.119,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, without status epilepticus",10,PPSV
+G40.804,"Other epilepsy, intractable, without status epilepticus",10,PPSV
+G40.901,"Epilepsy, unspecified, not intractable, with status epilepticus",10,PPSV
+G40.909,"Epilepsy, unspecified, not intractable, without status epilepticus",10,PPSV
+G40.911,"Epilepsy, unspecified, intractable, with status epilepticus",10,PPSV
+G40.919,"Epilepsy, unspecified, intractable, without status epilepticus",10,PPSV
+Q00.0,Anencephaly,10,PPSV
+Q00.1,Craniorachischisis,10,PPSV
+Q00.2,Iniencephaly,10,PPSV
+Q05.4,Unspecified spina bifida with hydrocephalus,10,PPSV
+Q07.01,Arnold-Chiari syndrome with spina bifida,10,PPSV
+Q07.02,Arnold-Chiari syndrome with hydrocephalus,10,PPSV
+Q07.03,Arnold-Chiari syndrome with spina bifida and hydrocephalus,10,PPSV
+Q05.0,Cervical spina bifida with hydrocephalus,10,PPSV
+Q05.1,Thoracic spina bifida with hydrocephalus,10,PPSV
+Q05.2,Lumbar spina bifida with hydrocephalus,10,PPSV
+Q05.8,Sacral spina bifida without hydrocephalus,10,PPSV
+Q05.5,Cervical spina bifida without hydrocephalus,10,PPSV
+Q05.6,Thoracic spina bifida without hydrocephalus,10,PPSV
+Q05.7,Lumbar spina bifida without hydrocephalus,10,PPSV
+Q01.9,"Encephalocele, unspecified",10,PPSV
+Q02,Microcephaly,10,PPSV
+Q04.1,Arhinencephaly,10,PPSV
+Q04.2,Holoprosencephaly,10,PPSV
+Q04.3,Other reduction deformities of brain,10,PPSV
+Q03.0,Malformations of aqueduct of Sylvius,10,PPSV
+Q03.1,Atresia of foramina of Magendie and Luschka,10,PPSV
+Q03.8,Other congenital hydrocephalus,10,PPSV
+Q04.5,Megalencephaly,10,PPSV
+Q04.6,Congenital cerebral cysts,10,PPSV
+Q04.8,Other specified congenital malformations of brain,10,PPSV
+Q06.2,Diastematomyelia,10,PPSV
+Q06.4,Hydromyelia,10,PPSV
+Q06.0,Amyelia,10,PPSV
+Q06.1,Hypoplasia and dysplasia of spinal cord,10,PPSV
+Q06.3,Other congenital cauda equina malformations,10,PPSV
+Q06.8,Other specified congenital malformations of spinal cord,10,PPSV
+G90.1,Familial dysautonomia [Riley-Day],10,PPSV
+Q07.8,Other specified congenital malformations of nervous system,10,PPSV
+Q07.9,"Congenital malformation of nervous system, unspecified",10,PPSV
+G71.2,Congenital myopathies,10,PPSV
+G71.0,Muscular dystrophy,10,PPSV
+G71.11,Myotonic muscular dystrophy,10,PPSV
+G71.12,Myotonia congenita,10,PPSV
+G71.13,Myotonic chondrodystrophy,10,PPSV
+G71.14,Drug induced myotonia,10,PPSV
+G71.19,Other specified myotonic disorders,10,PPSV
+G72.3,Periodic paralysis,10,PPSV
+J45.20,"Mild intermittent asthma, uncomplicated",10,PPSV
+J45.22,Mild intermittent asthma with status asthmaticus,10,PPSV
+J45.21,Mild intermittent asthma with (acute) exacerbation,10,PPSV
+J45.20,"Mild intermittent asthma, uncomplicated",10,PPSV
+J45.22,Mild intermittent asthma with status asthmaticus,10,PPSV
+J45.21,Mild intermittent asthma with (acute) exacerbation,10,PPSV
+J44.9,"Chronic obstructive pulmonary disease, unspecified",10,PPSV
+J44.0,Chronic obstructive pulmonary disease with acute lower respiratory infection,10,PPSV
+J44.1,Chronic obstructive pulmonary disease with (acute) exacerbation,10,PPSV
+J45.990,Exercise induced bronchospasm,10,PPSV
+J45.991,Cough variant asthma,10,PPSV
+E84.9,"Cystic fibrosis, unspecified",10,PPSV
+E84.11,Meconium ileus in cystic fibrosis,10,PPSV
+E84.0,Cystic fibrosis with pulmonary manifestations,10,PPSV
+E84.19,Cystic fibrosis with other intestinal manifestations,10,PPSV
+E84.8,Cystic fibrosis with other manifestations,10,PPSV
+P27.0,Wilson-Mikity syndrome,10,PPSV
+P27.1,Bronchopulmonary dysplasia originating in the perinatal period,10,PPSV
+P27.8,Other chronic respiratory diseases originating in the perinatal period,10,PPSV
+J47.9,"Bronchiectasis, uncomplicated",10,PPSV
+J47.1,Bronchiectasis with (acute) exacerbation,10,PPSV
+Q33.0,Congenital cystic lung,10,PPSV
+Q33.2,Sequestration of lung,10,PPSV
+Q33.3,Agenesis of lung,10,PPSV
+Q33.6,Congenital hypoplasia and dysplasia of lung,10,PPSV
+Q33.9,"Congenital malformation of lung, unspecified",10,PPSV
+Q33.4,Congenital bronchiectasis,10,PPSV
+Q33.1,Accessory lobe of lung,10,PPSV
+Q33.5,Ectopic tissue in lung,10,PPSV
+Q33.8,Other congenital malformations of lung,10,PPSV
+J96.10,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia",10,PPSV
+J96.20,"Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia",10,PPSV
+J98.9,"Respiratory disorder, unspecified",10,PPSV
+J84.10,"Pulmonary fibrosis, unspecified",10,PPSV
+J84.89,Other specified interstitial pulmonary diseases,10,PPSV
+M32.10,"Systemic lupus erythematosus, organ or system involvement unspecified",10,PPSV
+M08.00,Unspecified juvenile rheumatoid arthritis of unspecified site,10,PPSV
+M08.3,Juvenile rheumatoid polyarthritis (seronegative),10,PPSV
+M08.40,"Pauciarticular juvenile rheumatoid arthritis, unspecified site",10,PPSV
+M08.40,"Pauciarticular juvenile rheumatoid arthritis, unspecified site",10,PPSV
+M30.3,Mucocutaneous lymph node syndrome [Kawasaki],10,PPSV
+G96.0,Cerebrospinal fluid leak,10,PPSV
+G96.0,Cerebrospinal fluid leak,10,PPSV

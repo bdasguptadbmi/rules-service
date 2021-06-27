@@ -1,0 +1,80 @@
+279.0,Deficiency of humoral immunity,9,meningoccocal
+279.00,"Hypogammaglobulinemia, unspecified",9,meningoccocal
+279.01,Selective IgA immunodeficiency,9,meningoccocal
+279.02,Selective IgA immunodeficiency,9,meningoccocal
+279.03,Other selective immunoglobulin deficiencies,9,meningoccocal
+279.04,Congenital hypogammaglobulinemia,9,meningoccocal
+279.05,Immunodeficiency with increased IgM,9,meningoccocal
+279.06,Common variable immunodeficiency,9,meningoccocal
+279.09,Other,9,meningoccocal
+279.8,Other specified disorders involving the immune mechanism,9,meningoccocal
+759.0,Anomalies of spleen,9,meningoccocal
+282.4,Thalassemias,9,meningoccocal
+282.41,Sickle-cell thalassemia without crisis,9,meningoccocal
+282.42,Sickle-cell thalassemia with crisis,9,meningoccocal
+282.49,Other thalassemia,9,meningoccocal
+282.6,Sickle-cell disease,9,meningoccocal
+282.60,"Sickle-cell disease, unspecified",9,meningoccocal
+282.61,Hb-SS disease without crisis,9,meningoccocal
+282.62,Hb-SS disease with crisis,9,meningoccocal
+282.63,Sickle-cell/Hb-C disease without crisis,9,meningoccocal
+282.64,Sickle-cell/HB-C disease with crisis,9,meningoccocal
+282.68,Other sickle-cell disease without crisis,9,meningoccocal
+282.69,Other sickle-cell disease with crisis,9,meningoccocal
+O42,Human immunodeficiency virus [HIV] disease,9,meningoccocal
+V08,Asymptomatic human immunodeficiency virus [HIV] infection status,9,meningoccocal
+V42,Organ or tissue replaced by transplant,9,meningoccocal
+V42.0,Kidney,9,meningoccocal
+V42.1,Heart,9,meningoccocal
+V42.2,Heart valve,9,meningoccocal
+V42.3,Skin,9,meningoccocal
+V42.4,Bone,9,meningoccocal
+V42.5,Cornea,9,meningoccocal
+V42.6,Lung,9,meningoccocal
+V42.7,Liver,9,meningoccocal
+V42.8,Other specified organ or tissue,9,meningoccocal
+V42.81,Bone marrow,9,meningoccocal
+V42.82,Peripheral stem cells,9,meningoccocal
+V42.83,Pancreas,9,meningoccocal
+V42.84,Intestines,9,meningoccocal
+V42.89,Other,9,meningoccocal
+V42.9,Unspecified organ or tissue,9,meningoccocal
+D80.1,Nonfamilial hypogammaglobulinemia,10,meningoccocal
+D80.2,Selective deficiency of immunoglobulin A [IgA],10,meningoccocal
+D80.4,Selective deficiency of immunoglobulin M [IgM],10,meningoccocal
+D80.3,Selective deficiency of immunoglobulin G [IgG] subclasses,10,meningoccocal
+D80.0,Hereditary hypogammaglobulinemia,10,meningoccocal
+D80.5,Immunodeficiency with increased immunoglobulin M [IgM],10,meningoccocal
+D83.8,Other common variable immunodeficiencies,10,meningoccocal
+D83.9,"Common variable immunodeficiency, unspecified",10,meningoccocal
+D80.7,Transient hypogammaglobulinemia of infancy,10,meningoccocal
+D84.1,Defects in the complement system,10,meningoccocal
+D89.89,"Other specified disorders involving the immune mechanism, not elsewhere classified",10,meningoccocal
+Q89.01,Asplenia (congenital),10,meningoccocal
+Q89.09,Congenital malformations of spleen,10,meningoccocal
+D57.40,Sickle-cell thalassemia without crisis,10,meningoccocal
+D57.419,"Sickle-cell thalassemia with crisis, unspecified",10,meningoccocal
+D56.8,Other thalassemias,10,meningoccocal
+D57.1,Sickle-cell disease without crisis,10,meningoccocal
+D57.1,Sickle-cell disease without crisis,10,meningoccocal
+D57.00,"Hb-SS disease with crisis, unspecified",10,meningoccocal
+D57.20,Sickle-cell/Hb-C disease without crisis,10,meningoccocal
+D57.219,"Sickle-cell/Hb-C disease with crisis, unspecified",10,meningoccocal
+D57.80,Other sickle-cell disorders without crisis,10,meningoccocal
+D57.819,"Other sickle-cell disorders with crisis, unspecified",10,meningoccocal
+B20,Human immunodeficiency virus [HIV] disease,10,meningoccocal
+Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,10,meningoccocal
+Z94.0,Kidney transplant status,10,meningoccocal
+Z94.1,Heart transplant status,10,meningoccocal
+Z95.3,Presence of xenogenic heart valve,10,meningoccocal
+Z94.5,Skin transplant status,10,meningoccocal
+Z94.6,Bone transplant status,10,meningoccocal
+Z94.7,Corneal transplant status,10,meningoccocal
+Z94.2,Lung transplant status,10,meningoccocal
+Z94.4,Liver transplant status,10,meningoccocal
+Z94.81,Bone marrow transplant status,10,meningoccocal
+Z94.84,Stem cells transplant status,10,meningoccocal
+Z94.83,Pancreas transplant status,10,meningoccocal
+Z94.82,Intestine transplant status,10,meningoccocal
+Z94.89,Other transplanted organ and tissue status,10,meningoccocal
+Z94.9,"Transplanted organ and tissue status, unspecified",10,meningoccocal
